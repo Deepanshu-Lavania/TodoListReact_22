@@ -1,0 +1,14 @@
+.btn{
+    font-size: 1.1rem;
+}
+.showbtn{
+    border: none;
+    border-radius:.5rem ;
+    -webkit-border-radius:.5rem ;
+    -moz-border-radius:.5rem ;
+    -ms-border-radius:.5rem ;
+    -o-border-radius:.5rem ;
+    padding: .3rem .5rem;
+    background-color: rgb(80, 77, 77);
+    color:#fff;
+}
